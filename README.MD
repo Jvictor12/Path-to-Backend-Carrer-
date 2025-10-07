@@ -13,7 +13,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Jvictor12/Path-to-Backend-Carrer-/blob/main/output/Backend%20-%20Do%20zero%20ao%20respeito%20no%20mercado.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -55,7 +55,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="./assets/profile.jgp"
+      src="https://github.com/Jvictor12/Path-to-Backend-Carrer-/blob/main/assets/profile.jpg"
     />
     <p>&nbsp&nbsp&nbspJoão Victor<br>
     &nbsp&nbsp&nbsp
